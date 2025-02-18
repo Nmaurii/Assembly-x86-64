@@ -1,5 +1,5 @@
 section .data
-    msg db "Hola !",0xA ;mensaje mas salto de linea en hexadecimal
+    msg db "Pico pal que lee",0xA ;mensaje mas salto de linea en hexadecimal
     len equ $ - msg     ;largo del mensaje considerando salto de linea (automatico)
 
 section .text
