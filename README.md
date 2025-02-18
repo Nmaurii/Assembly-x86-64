@@ -1,6 +1,4 @@
-# Assembly-en-x86-64
-
-# Repositorio de Assembly x86_64 en Linux
+# Assembly en x86-64
 
 Este repositorio servirá para documentar lo aprendido sobre **Assembly de 64 bits** en un entorno Linux, utilizando el ensamblador **NASM (Netwide Assembler)**. Aquí se incluirán ejemplos con scripts relacionados con la programación en lenguaje ensamblador.
 
