@@ -1,3 +1,5 @@
+;Primera version de un programa que calcula el factorial de una valor
+
 section .data
     salto db 0xA
 section .bss
