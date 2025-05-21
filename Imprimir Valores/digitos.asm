@@ -1,4 +1,4 @@
-;PROGRAMA PARA IMPRIMR VALORES DE 3 DIGITOS
+;PROGRAMA PARA IMPRIMR VALORES DE 3 DIGITOS o mas pero hay que modificar un poco el codigo
 
 section .data
 	salto db 0xA
